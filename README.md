@@ -44,7 +44,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvs2000&show_icons=true&locale=en" alt="kvs2000" width="300" height="150" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvs2000&" alt="kvs2000" width="300" height="200"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvs2000&" alt="kvs2000" width="300" height="150"/>
 
 <h5 align="right">Connect with me:</h5>
 <p align="right">
