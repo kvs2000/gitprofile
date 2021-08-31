@@ -40,11 +40,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvs2000&show_icons=true&locale=en&layout=compact" alt="kvs2000" width="300" height="200"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvs2000&show_icons=true&locale=en&layout=compact" alt="kvs2000" width="300" height="200"/></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvs2000&show_icons=true&locale=en" alt="kvs2000" width="300" height="150" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kvs2000&show_icons=true&locale=en" alt="kvs2000" width="300" height="150" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvs2000&" alt="kvs2000" width="300" height="150"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvs2000&" alt="kvs2000" width="300" height="150"/></p>
 
 <h5 align="right">Connect with me:</h5>
 <p align="right">
