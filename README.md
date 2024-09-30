@@ -2,7 +2,7 @@
 
 <h4 align="center">Let's Begin 👨‍💻 while(!(succeed=try())</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvs2000&show_icons=true&theme=merko&locale=en" alt="kvs2000" width="600" height="400" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvs2000&show_icons=true&theme=merko&locale=en" alt="kvs2000" width="400" height="200" />
 
 <h4 align="center">Holopin Badges (Hacktober 2024)</h4>
 
