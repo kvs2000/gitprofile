@@ -44,6 +44,8 @@
 <a href="https://rasa.com/" target="_blank"> <img src="https://www.nicepng.com/png/full/400-4009326_logo-rasa-nlu.png" alt="rasa" width="70" height="30"/> </a> 
 </p>
 
+[![An image of @kvs2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvs2000)](https://holopin.io/@kvs2000)
+
 
 
 <h5 align="center">Connect with me:</h5>
