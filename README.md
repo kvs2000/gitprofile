@@ -1,6 +1,6 @@
 <a href="https://ibb.co/cQyZZdM"><img align="center" width="1000" height="200" src="https://i.ibb.co/CQwYYFN/Screenshot-2021-08-31-182452.png" alt="Screenshot-2021-08-31-182452" border="0"></a>
 
-<h4 align="center">Holopin Badges (Hacktober 2024)</h4>
+<h4 align="center">Holopin Badges (Hacktober Fest 2024)</h4>
 
 [![An image of @kvs2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvs2000)](https://holopin.io/@kvs2000)
 
